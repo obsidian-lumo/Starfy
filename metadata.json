@@ -1,0 +1,6 @@
+{
+  "name": "Twelve VPN",
+  "description": "Элегантный Material 3 VPN клиент Twelve VPN с VLESS/Reality, умной маршрутизацией и статистикой трафика",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
